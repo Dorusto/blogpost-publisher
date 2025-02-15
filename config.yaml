@@ -1,0 +1,19 @@
+📂 Blog_Automation/
+│── 📂 articles/              # Articolele brute scrise în Obsidian
+│   ├── 2025-02-14.md
+│   ├── 2025-02-15.md
+│── 📂 processed/             # Articolele procesate și publicate
+│   ├── 2025-02-14_published.json
+│── 📂 templates/             # Template-uri Divi, Substack, social media
+│   ├── divi_template.html
+│   ├── social_media_template.txt
+│── 📂 logs/                  # Loguri pentru debugging
+│   ├── log_2025-02-14.txt
+│── 📂 scripts/               # Scripturi Python
+│   ├── main.py               # Scriptul principal
+│   ├── config.py             # Configurații API & variabile
+│   ├── wordpress.py          # Funcții pentru WordPress
+│   ├── substack.py           # Funcții pentru Substack
+│   ├── telegram.py           # Funcții pentru Telegram
+│   ├── ai_processing.py       # Funcții AI (titlu, meta, rezumat)
+│── config.yaml                # Config global (chei API, setări)

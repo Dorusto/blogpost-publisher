@@ -1,0 +1,5 @@
+{
+    "seo_title": "",
+    "meta_description": "",
+    "social_summary": ""
+}
